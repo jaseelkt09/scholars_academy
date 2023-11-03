@@ -839,6 +839,7 @@ section {
   padding: 50px 30px;
   transition: all ease-in-out 0.4s;
   background: #fff;
+  min-width: 100%;
 }
 
 .services .icon-box .icon {
